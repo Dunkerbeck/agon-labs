@@ -4,9 +4,6 @@ Finance can be regenerative when aligned with planetary balance
 **Tokenizing Carbon Credits for On-Chain Climate Impact**  
 *September 2025*
 
-> *Join the future of finance and climate impact.*  
-> *Be part of the most advanced carbon-native DeFi ecosystem.*
-
 ---
 
 ## 🧩 1. The Problem
