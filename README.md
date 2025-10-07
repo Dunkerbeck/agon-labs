@@ -38,25 +38,11 @@ A unified marketplace for **tokenized real-world carbon assets (RWAs)**, powered
 - Automated auction mechanisms  
 - dMRV (digital Measurement, Reporting & Verification) integration  
 - Carbon data-driven AMM design  
-
-🎯 **Target Segments:**  
-Corporates  |  Cities  |  Retail
+- AGON builds on this groundwork — focusing on **integrated DeFi functionality**, and **institutional-grade collateralization.**
 
 ---
 
-## 🏁 4. Market Landscape
-### Main Competitors
-| Project | Founded | HQ | Funding Raised | Notes |
-|----------|----------|----|----------------|--------|
-| **KlimaDAO** | 2021 | U.S. | $17M | Pioneer in on-chain carbon protocols |
-| **Toucan Protocol** | 2022 | Switzerland | $7.5M | Carbon bridge & tokenization |
-| **Moss Earth** | 2020 | Brazil | $13.4M | Early tokenization and offsets |
-
-AGON builds on their groundwork — focusing on **integrated DeFi functionality**, **real-time transparency**, and **institution-grade collateralization.**
-
----
-
-## 👥 5. Team
+## 👥 4. Team
 **Stefano Casati** — *Founder*  
 - Board Member, Intesa Sanpaolo Pension Fund  
 - 20+ years in derivatives at Intesa Sanpaolo  
@@ -71,7 +57,7 @@ AGON builds on their groundwork — focusing on **integrated DeFi functionality*
 
 ---
 
-## 🧭 6. Roadmap (2025–2026)
+## 🧭 5. Roadmap (2025–2026)
 | Phase | Focus | Key Deliverables |
 |--------|--------|------------------|
 | **Q1 2026** | MVP launch | Token architecture · Carbon vault prototypes |
@@ -81,7 +67,7 @@ AGON builds on their groundwork — focusing on **integrated DeFi functionality*
 
 ---
 
-## 🤝 7. Collaboration Opportunities
+## 🤝 6. Collaboration Opportunities
 AGON Labs is open to collaborations with:
 - **Developers** – building token contracts, dMRV tools, or carbon data pipelines  
 - **Corporates / Cities** – piloting carbon-backed collateral or tokenization pilots  
