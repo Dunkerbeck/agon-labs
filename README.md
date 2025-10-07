@@ -77,7 +77,7 @@ AGON Labs is open to collaborations with:
 📫 **Get in touch:**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/stefano-casati-4389027/  )  
 - ✉️ https://agonlabs.xyz/ 
-- 🧠 [GitHub Profile]()
+- 🧠 [GitHub Profile](https://github.com/Dunkerbeck/stefanocasati)
 
 ---
 
