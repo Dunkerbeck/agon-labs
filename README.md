@@ -75,9 +75,9 @@ AGON Labs is open to collaborations with:
 - **Funds / DAOs** – co-developing liquidity and yield mechanisms  
 
 📫 **Get in touch:**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/stefanocasati/)  
-- ✉️ stefano@yourdomain.com  
-- 🧠 [GitHub Profile](https://github.com/stefanocasati)
+- 💼 [LinkedIn](https://www.linkedin.com/in/stefano-casati-4389027/  )  
+- ✉️ https://agonlabs.xyz/ 
+- 🧠 [GitHub Profile]()
 
 ---
 
