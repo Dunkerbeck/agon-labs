@@ -54,7 +54,7 @@ A unified marketplace for **tokenized real-world carbon assets (RWAs)**, powered
 
 ---
 
-## 🧭 5. Roadmap (2025–2026)
+## 🧭 5. Roadmap
 | Phase | Focus | Key Deliverables |
 |--------|--------|------------------|
 | **Q1 2026** | MVP launch | Token architecture · Carbon vault prototypes |
